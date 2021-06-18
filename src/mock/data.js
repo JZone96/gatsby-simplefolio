@@ -51,7 +51,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'pentolbress.png',
     title: 'Pentolbress (WIP)',
-    info: 'A project created for a fake company of pots. ',
+    info: 'A project created for a fake company of pans. ',
     info2: `It's build with ReactJS and React Router for routing. in the future, I will need to add Redux for state management`,
     url: '',
     repo: 'https://github.com/JZone96/pentolbress', // if no repo, the button will not show up
